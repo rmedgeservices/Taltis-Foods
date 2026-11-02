@@ -1,0 +1,6 @@
+{
+  "name": "Taltis Foods",
+  "description": "Authentic African meals made easier at home. Featuring Dragons' Den-approved 500 mL Jollof Sauces (Mild & Hot), recipes, retail store locator, and wholesale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
